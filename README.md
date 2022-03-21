@@ -1,2 +1,2 @@
-# Consensys Quorum Enterprise Blockchain
-![Architeture Canvas - Quurom](Slide1.jpg)
+# Consensys Quorum Enterprise Blockchain - Architecture Canvas
+![Architeture Canvas - Quurom](Slide1.jpeg)
